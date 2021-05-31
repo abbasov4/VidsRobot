@@ -1,7 +1,7 @@
 # The Vids Bot
 ## A telegram bot that can download songs
 <p align="center">
-  <img src="https://telegra.ph/file/172120c93b52738be277b.jpg">
+  <img src="https://telegra.ph/file/8f0fc6baa1ba0f15cab64.mp4">
 </p>
 
 Reach me on Telegram [@VidsRobot](https://t.me/VidsRobot)

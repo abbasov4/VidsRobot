@@ -1,7 +1,7 @@
 # HiTechRocket Project  <t.me/HiTechRockets>
 
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
-from string.plugins import *
+from string.plugins import 
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from string import botz as bot
@@ -27,7 +27,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Source", url="https://github.com/prabhasha-p/MediaDlBot"
+                        text="Source", url="https://github.com/prabhasha-p/VidsRobot"
                     ),
                     InlineKeyboardButton(
                         text="Developer", url="https://t.me/Prabha_sha"

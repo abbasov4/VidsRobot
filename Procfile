@@ -1,1 +1,1 @@
-worker: python3 -m vidsrobot
+worker: python3 -m string
